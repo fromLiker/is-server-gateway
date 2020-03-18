@@ -56,4 +56,4 @@ server:
 #      client-secret: 123456
 #    resource:
 #      jwt:
-#        key-uri: http://auth.imooc.com:9090/oauth/token_key
+#        key-uri: http://auth.ibm.com:9090/oauth/token_key
